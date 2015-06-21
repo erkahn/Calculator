@@ -1,0 +1,3 @@
+Index of calculator :
+-Classic 4 operations
+-Taking exponents and square roots of numbers 
