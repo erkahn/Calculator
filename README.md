@@ -1,2 +1,2 @@
 # Calculator
-Simple Calculator with recursive functions
+Simple Calculator 4 operations.
